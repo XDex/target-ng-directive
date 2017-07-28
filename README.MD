@@ -25,7 +25,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // Import your library
-import { SampleModule } from 'target-ng-directive';
+import { TargetModule } from 'target-ng-directive';
 
 @NgModule({
   declarations: [
